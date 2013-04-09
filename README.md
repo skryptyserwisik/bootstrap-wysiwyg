@@ -1,4 +1,5 @@
-bootstrap-wysiwyg
-=================
+Przykłady użycia skryptu bootstrap-wysiwyg
+https://github.com/mindmup/bootstrap-wysiwyg
 
-bootstrap-wysiwyg sample usages
+Opis skryptu dosŧępny na stronie:
+http://skrypty.serwisik.com/skrypty/male-skrypty/bootstrap-wysiwyg/
